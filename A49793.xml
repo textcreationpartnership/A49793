@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laws, ordinances and decrees made upon Friday the twentieth day of July, 1666, and in the eighteenth year of the reign of our sovereign lord, Charles the Second ... by the right Honourable John, Lord Berkley, Richard, Lord Gorges, Thomas Chicheley, and Robert Hampson, Esq., four of the bailiffs of the Corporation of the Great Level of the Fens; John Russel, Esq., Sir Charles Harbord Kt., William Denton, Doctor in Physick, William Crane, Roger Jenyns, and John Bradborn, esquires, six of the conservators of the said corporation.</title>
+            <author>Corporation of the Great Level of the Fens.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49793</idno>
+            <idno type="STC">Wing L701B</idno>
+            <idno type="STC">ESTC R41461</idno>
+            <idno type="EEBO-CITATION">31355388</idno>
+            <idno type="OCLC">ocm 31355388</idno>
+            <idno type="VID">110438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1743:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laws, ordinances and decrees made upon Friday the twentieth day of July, 1666, and in the eighteenth year of the reign of our sovereign lord, Charles the Second ... by the right Honourable John, Lord Berkley, Richard, Lord Gorges, Thomas Chicheley, and Robert Hampson, Esq., four of the bailiffs of the Corporation of the Great Level of the Fens; John Russel, Esq., Sir Charles Harbord Kt., William Denton, Doctor in Physick, William Crane, Roger Jenyns, and John Bradborn, esquires, six of the conservators of the said corporation.</title>
+                  <author>Corporation of the Great Level of the Fens.</author>
+                  <author>Bedford Level Corporation.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint information from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  England --  Fens, The.</term>
+               <term>Reclamation of land --  England --  Fens, The.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110438:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 94 -->
+            <head>Laws, Ordinances and Decrees, made upon <hi>Friday</hi> the twentieth day of <hi>July,</hi> in the Year of our Lord <hi>1666:</hi> And in the Eigh<g ref="char:EOLhyphen"/>teenth Year of the Reign of our Sovereign Lord, <hi>CHARLES the Second,</hi> of <hi>England, Scotland, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> KING, Defender of the Faith, &amp;c. By the Right Honourable, <hi>John</hi> Lord <hi>Berkley, Richard</hi> Lord <hi>Gorges, Tho<g ref="char:EOLhyphen"/>mas Chicheley</hi> and <hi>Robert Hampſon</hi> 
+               <abbr>Eſq</abbr> four of the Bailiffs of the Corporation of the Great Level of the Fens: <hi>John Ruſſel</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Charles Harbord</hi> K<hi rend="sup">t</hi>; <hi>William Denton</hi> Doctor in Phyſick, <hi>William Crane, Roger Jenyns,</hi> and <hi>John Bradborn</hi> Eſquires, ſix of the Con<g ref="char:EOLhyphen"/>ſervators of the ſaid Corporation. That is to ſay,</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Nprimis,</hi> It is hereby Declared, Or<g ref="char:EOLhyphen"/>dered, Adjudged and Decreed, That the Rivers, Drains, Wear-Dykes, Water-Courſes, Banks, Fore-lands, Saſſes, Sluces, Tunnels, Bridges and Works hereafter particularly mentioned, are,
+<pb n="2" facs="tcp:110438:2"/>
+               <!-- PDF PAGE 95 -->and ſhall be for ever hereafter, declared and taken to be the Common and Publick Rivers, Drains, Sewers, Wear-Dykes, Water-courſes, Banks, Fore-lands, Saſſes, Sluces, Tunnels, Bridges, and Works of the ſaid Great Level of the Fens. <hi>That is to ſay,</hi>
+            </p>
+            <list>
+               <item>1. The Bank againſt <hi>Welland</hi> River, from <hi>Pea<g ref="char:EOLhyphen"/>kirk</hi> to the Bars at the Weſt end of <hi>Crowland,</hi> and the Wear-dyke to the ſame.</item>
+               <item>2. <hi>Wearington</hi> new Drain, with its Banks and Wear-dyke.</item>
+               <item>3. The Drain called the <hi>Stoor-Nook</hi> Drain, from <hi>Stoor-Nook</hi> to the Adventurers Lands in <hi>Borrow</hi> great Fen; and from thence by the Out<g ref="char:EOLhyphen"/>ring-dyke of the ſaid Adventurers Lands to the Eaſt corner thereof, and from thence by <hi>Pepper Lake</hi> to <hi>New South Ean,</hi> and from thence by the <hi>New South Ean</hi> to <hi>Clowes Croſs,</hi> and from thence by the <hi>Shire-drain</hi> to the Sea.</item>
+               <item>4. The <hi>Wryde Stream.</hi>
+               </item>
+               <item>5. The <hi>Eighteen-foot</hi> Drain, through <hi>Murrow Common</hi> to <hi>Clowes Croſs.</hi>
+               </item>
+               <item>6. The <hi>Old South Ean</hi> from <hi>Guyhurn corner</hi> to <hi>Clowes Croſs.</hi>
+               </item>
+               <item>7. <hi>Thorney Dyke,</hi> from <hi>Cats-water</hi> by <hi>Willow<g ref="char:EOLhyphen"/>hall,</hi> as far as the Saſs in the North bank of <hi>Moor<g ref="char:EOLhyphen"/>ton</hi>'s Leam.</item>
+               <item>8. <hi>Moorton</hi>'s Leam with its Banks and Wear-dykes.</item>
+               <item>9. <hi>Stand-ground</hi> Saſs.</item>
+               <item>10. The old courſe of the River of <hi>Nean,</hi> from
+<pb n="3" facs="tcp:110438:2"/>
+                  <!-- PDF PAGE 95 -->
+                  <hi>Stand-ground</hi> Saſs to <hi>Well-creek</hi> Saſs, with the Saſſes at <hi>Floods Ferry</hi> near <hi>Wittleſea</hi>-Dykes end, and the other Saſs near the Eaſtern end of <hi>Well-Town,</hi> and the Saſs at the lower end of <hi>Well-creek.</hi>
+               </item>
+               <item>11. <hi>Wittleſea</hi>-Dyke.</item>
+               <item>12. <hi>Bevil</hi>'s Leam, from <hi>Wittleſea</hi>-Mere to the Saſs that is to be ſet near <hi>Baldwin Gloſſom</hi>'s houſe, at the lower end of <hi>Walderſea</hi> Receptacle.</item>
+               <item>13. <hi>Moor</hi>'s Drain, from <hi>Bevil</hi>'s Leam to the <hi>Old Nean</hi> below <hi>March.</hi>
+               </item>
+               <item>14. The <hi>Delf</hi>-Dyke, from <hi>Wittleſea</hi> to the <hi>Old Nean.</hi>
+               </item>
+               <item>15. <hi>New</hi> Dike, from <hi>Cunnington</hi> Brook at the upper corner of <hi>Holnie</hi> Receptacle to <hi>Hook-Load.</hi>
+               </item>
+               <item>16. And <hi>Hook-Load</hi> to the <hi>Old Nean</hi> by <hi>Bur<g ref="char:EOLhyphen"/>bridge</hi>-ſtream into the <hi>Old Nean.</hi>
+               </item>
+               <item>17. <hi>Monks Load.</hi>
+               </item>
+               <item>18. The Drain from <hi>Raveley</hi>'s Nook to <hi>Bur<g ref="char:EOLhyphen"/>bridge</hi> ſtream, between <hi>Woodwalton</hi>-common and <hi>Ramſey</hi> and <hi>Raneley</hi>-common.</item>
+               <item>19. The <hi>Fourty-foot</hi> Drain, from the Weſt-outring Dyke of the <hi>Adventurers Lands,</hi> taken out of <hi>Doddington, Warboys, Ramſey,</hi> &amp;c. to <hi>Welches</hi> Damn.</item>
+               <item>20. The <hi>Weſt-water,</hi> from the <hi>Fourty-foot</hi> through <hi>Benwick.</hi>
+               </item>
+               <item>21. The Drain leading from <hi>Chartreſs</hi>-Ferry to <hi>Slade-gate,</hi> and ſo the <hi>Fourty-foot</hi> Drain.</item>
+               <item>22. The <hi>Twenty-foot</hi> Drain, from <hi>Erith</hi>-com<g ref="char:EOLhyphen"/>mon to <hi>Well-creck,</hi> and the Sluce at the lower end
+<pb n="4" facs="tcp:110438:3"/>
+                  <!-- PDF PAGE 96 -->thereof, with the Bank thereof, and Sluces therein.</item>
+               <item>23. <hi>Hammond's Ean,</hi> from the <hi>Adventurers</hi> Lands in <hi>Sommerſham</hi> high Fen to the <hi>Twenty-foot</hi> Drain aforeſaid.</item>
+               <item>24. Old <hi>Bedford</hi> River, from <hi>Welch</hi>'s Damn to the <hi>Old Owze,</hi> with the Sluces at the end thereof.</item>
+               <item>25. The <hi>Sixteen-foot</hi> Drain, from the <hi>Thirty-foot</hi> Drain to <hi>Popham's Eau.</hi>
+               </item>
+               <item>26. <hi>Popham's Eau,</hi> with the Brick Sluce therein.</item>
+               <item>27. <hi>London's Load.</hi>
+               </item>
+               <item>28. The Drain called the <hi>Tongues,</hi> from <hi>Nor<g ref="char:EOLhyphen"/>del</hi> 
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luce through <hi>Down-ham</hi>-common to the Sluce at the end thereof, near <hi>Stow Townes-end.</hi>
+               </item>
+               <item>29. South Bank of the River of <hi>Owze,</hi> from the <hi>Hard-lands</hi> of <hi>Swacey</hi> to the <hi>Hermitage,</hi> and the Saſs or Sluce there.</item>
+               <item>30. The River called <hi>New Bedford River,</hi> from the <hi>Hermitage</hi> to <hi>Salters Load,</hi> with the Banks, Fore-lands, Wear-dykes and Sluces thereof.</item>
+               <item>31. The Drain that leads from <hi>Ewel</hi>-Fen to <hi>Andrey Calſey</hi> and from thence into the <hi>Old Owze</hi> at <hi>Andrey</hi> Bridge.</item>
+               <item>32. <hi>Grunty-Fen</hi> Drain, from <hi>Grunty-Fen</hi> to the <hi>Old Owze</hi> at <hi>Littleport-Chair,</hi> with its Banks.</item>
+               <item>33. Old <hi>Welney</hi> River.</item>
+               <item>34. <hi>Littleport</hi> Drain.</item>
+               <item>35. <hi>Maid Load.</hi>
+               </item>
+               <item>36. The Drain that carries away <hi>Hogging<g ref="char:EOLhyphen"/>ton</hi>
+                  <pb n="5" facs="tcp:110438:3"/>
+                  <!-- PDF PAGE 96 -->Brook, with the Banks to be raiſed.</item>
+               <item>37. The River of <hi>Grant,</hi> from <hi>Clay-hyth</hi> to <hi>Harrymeer,</hi> with the Banks, Fore-lands, Wear-dykes and Sluces thereof</item>
+               <item>38. The Banks of the <hi>Old Owze,</hi> from <hi>Harri<g ref="char:EOLhyphen"/>meer</hi> to <hi>Chitterings.</hi>
+               </item>
+               <item>39. The New Long Drain, from <hi>Wicken</hi> high Fen to the Tunnels under <hi>Soham</hi> new River, and ſo to the Tunnel under <hi>Mildenhall</hi> River, from thence to the Tunnel under <hi>Brandon</hi> River, and ſo to the Tunnel under <hi>Wiſſey</hi> or <hi>Stoak</hi> River, and from thence through <hi>Downham's Eau</hi> to the Sluces at the lower end thereof, near <hi>Stow</hi>-bridge.</item>
+               <item>40. The Eaſt Banks of <hi>Owze,</hi> from <hi>Harrimeer</hi> to the Brick Sluce at <hi>Prickwillow,</hi> with the Wear-dyke thereof.</item>
+               <item>41. The new Bank on the Weſt ſide of the River <hi>Owze,</hi> from <hi>Harrimeer</hi> to <hi>Ely</hi> high bridge.</item>
+               <item>42. The Drain from the Eaſt end of the <hi>Ad<g ref="char:EOLhyphen"/>ventures</hi> Lands taken out of <hi>Soham</hi> Common, to the Wear-dyke of <hi>Mildenhall</hi> River.</item>
+               <item>43. <hi>Mildenhall</hi> River with the Banks, Fore<g ref="char:EOLhyphen"/>lands, and Wear-dykes thereof.</item>
+               <item>44. The Eaſt Banks of the River of <hi>Owze,</hi> from <hi>Mildenhall</hi> River to the Sluce at the lower end of <hi>Mildenhall</hi> Drain near <hi>Littleport Chair.</hi>
+               </item>
+               <item>45. <hi>Mildenhall</hi>-Drain from the laſt mention'd Sluce to <hi>Mildenhall</hi>-common.</item>
+               <item>46. The River of <hi>Owze,</hi> with the Banks, Fore<g ref="char:EOLhyphen"/>lands, Wear-dykes, Sluces and Tunnels thereof,
+<pb n="6" facs="tcp:110438:4"/>
+                  <!-- PDF PAGE 97 -->from <hi>Littleport Chair</hi> to <hi>Denver</hi> Damn. Except<g ref="char:EOLhyphen"/>ing the Sluces, Tunnels and Water-works here<g ref="char:EOLhyphen"/>tofore made and maintained by <hi>Edmond Shipwith</hi> Eſquire, deceaſed, and others, particular Owners of Lands within or near the ſaid Great Level, for his or their own private uſe or benefit; and ſuch other Sluces, Tunnels and Water-works as here<g ref="char:EOLhyphen"/>after ſhall be made by any Owners of Lands, by Contract or Agreement with the ſaid Corpo<g ref="char:EOLhyphen"/>ration.</item>
+               <item>47. <hi>Lakingheath</hi> Drain, from <hi>Wansford</hi> Brook to the Tunnel under <hi>Lakingheath</hi> new Load, and ſo to the Tunnels under <hi>Brandon River.</hi>
+               </item>
+               <item>48. <hi>Brandon</hi> River, with the Banks, Fore<g ref="char:EOLhyphen"/>lands, and Wear-dykes thereto belonging.</item>
+               <item>49. <hi>Feltwel</hi> Drain, to its Outfal into the River of <hi>Owze</hi> at <hi>Palmer</hi>'s houſe.</item>
+               <item>50. <hi>Sams Cut</hi> from <hi>Feltwel</hi> to the River of <hi>Owze.</hi>
+               </item>
+               <item>51. <hi>Stoke</hi> River, with the Banks, Fore-lands, Wear-dykes and Sluces.</item>
+               <item>52. A Tunnel under <hi>Methold Load</hi> for the draining of <hi>Norwold</hi> Fens.</item>
+               <item>53. <hi>Roxam</hi> Drain, with the Banks thereof.</item>
+               <item>54. The Cart Bridge at the <hi>Hermitage,</hi> over <hi>New Bedford</hi> River.</item>
+               <item>55. The two Cart Bridges at <hi>Mepal,</hi> over the <hi>New</hi> and <hi>Old Bedford</hi> Rivers.</item>
+               <item>56. The Bridge over the <hi>Twenty-foot</hi> Drain in <hi>Mepal</hi> Droveway. With ſuch other Bridges as ſhall be declared by any ſubſequent Laws of Sewers.</item>
+            </list>
+            <p>
+               <pb n="7" facs="tcp:110438:4"/>
+               <!-- PDF PAGE 97 -->
+And ſhall be from time to time preſerved and maintained at the proper coſts and Charges of the ſaid Governour, Bailifs, and Commonalty of the Company of Conſervators of the Great Level of the Fens, and their Succeſſors, Owners of the ninety five thouſand Acres, mention'd in a cer<g ref="char:EOLhyphen"/>tain Act of Parliament, intituled, <hi>An Act for ſetling the Draining of the Great Level of the Fens, called</hi> Bedford-Level. And not by the Owners of any the Lands within the ſaid Great Level, other then of the ſaid ninety five thouſand Acres.</p>
+            <p>
+               <hi>Provided,</hi> That this Declaration, Order, Law or Decree, or any <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing herein before mentioned, ſhall not extend or be made uſe of to invalid or make void any Contract or Agreement made by the ſaid Earl of <hi>Bedford,</hi> Participants and Adven<g ref="char:EOLhyphen"/>turers, or the ſaid Governour, Bailiffs and Com<g ref="char:EOLhyphen"/>monalty of the ſaid Company of Conſervators, with any Perſon or Perſons, or Townſhip, for maintenance and preſervation of any Saſſes, Sluces, Bridge or Bridges, Banks, Rivers, Drains, Ways or Paſſages, or other Work, within or without the ſaid Great Level.</p>
+            <p n="3">3. And it is further Ordered, Adjudged and Decreed, that all and every other the Drains, Diviſion, Dykes, and Fence-dykes between Counties, Lords of Mannors, Pariſhes, Town<g ref="char:EOLhyphen"/>ſhips and particular Owners; and the Fence-dykes of every Pariſh, Hamlet, or Townſhip, be<g ref="char:EOLhyphen"/>tween
+<pb n="8" facs="tcp:110438:5"/>
+               <!-- PDF PAGE 98 -->their Fences and their Corn-fields, and be<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ween their Feed-fens and Mow-fens, and be<g ref="char:EOLhyphen"/>tween the Severals and Commons, ſhall be kept and maintained with all neceſſary reparations from time to time, at the proper Coſts and Charges of the Owners, Occupiers or Perſons intereſſed in the Fens and Grounds next ad<g ref="char:EOLhyphen"/>joyning thereunto, or that have heretofore, or of right ought to do the ſame, at their antient or preſent dimenſions, or ſo as the Court of Sewers ſhall from time to time direct and appoint, for the better conveyance of the Waters into ſome of the afore-mentioned publick Drains of the ſaid Corporation now uſed, for the Conveyance of the Waters of the ſaid Level, into the great Rivers, or to their out-fell at Sea.</p>
+            <p n="4">4. And it is hereby further Ordered, Adjudged and Decreed, that no perſon or perſons ſhall at any time hereafter, upon any pretence, or by any ways or means whatſoever, make any incroach<g ref="char:EOLhyphen"/>ment upon, or ſtraiten the preſent dimenſions of any River, Waſh, Drain or Sewers, within or without the ſaid Great Level; nor ſhall cut, burn, caſt down, break open, or do any hurt or dam<g ref="char:EOLhyphen"/>mage to any River, Bank, Waſh or Fore-land within the ſaid Great Level, or without the ſaid Great Level, made by the ſaid Earl and Partici<g ref="char:EOLhyphen"/>pants, or the ſaid Governour, Bailiffs and Con<g ref="char:EOLhyphen"/>ſervators; nor ſhall cut damm burn, caſt down, break open, or do any hurt or dammage unto any Sluce, Saſs, Lock, Tunnel, Bridge, Gate or
+<pb n="9" facs="tcp:110438:5"/>
+               <!-- PDF PAGE 98 -->Rail made within or without the ſaid Great Level, for, or conducing to the Dreining of the ſaid Great Level, or the preſervation thereof, otherwiſe then by Order or Decree of the Commiſſioners of Sewers for the time being, and appointed by the ſaid Act, nor ſhall make or cauſe to be made any Damns, Stops, Wears, or other Lets, Impediments, or Nuſances, in, or within any of the Rivers, Drains, Out<g ref="char:EOLhyphen"/>ring Dykes, Sewers, Waſhes, Fore-lands, or other work made within or without the ſaid Great Level, for the Dreining of the ſaid Great Level, or preſervation thereof, nor ſhall incroach upon, ſtreighten, or do any hurt or dammage to any Drove-way within the ſaid Great Level, ſet out upon occaſion of the dreining of the ſame.</p>
+            <p n="5">5. And it is hereby further Ordered, Ad<g ref="char:EOLhyphen"/>judged and Decreed, that no perſon or perſons at any time hereafter, without Order of, or from the Court of Sewers for the ſaid Great Level for the time being, ſhall erect any Build<g ref="char:EOLhyphen"/>ing, Cottage, Dwelling or Hut upon any Bank, Drove-way, Waſh, or Fore-land, made by the ſaid <hi>William</hi> Earl of <hi>Bedford,</hi> his Ad<g ref="char:EOLhyphen"/>venturers and Participants, or by the Gover<g ref="char:EOLhyphen"/>nour, Bailiffs and Commonalty of the Com<g ref="char:EOLhyphen"/>pany of Conſervators of the ſaid Great Level, within or without the ſaid Great Level; or make, ſet or place any Huts, Reeks, or Stacks of Corn, Hay-fodder, Turf, Haſſock, Thack, Sedge, VVood, Seſſes, or other, Impediments
+<pb n="10" facs="tcp:110438:6"/>
+               <!-- PDF PAGE 99 -->upon the ſaid Banks, Drove-ways, VVaſhes or Fore-lands; or which may tend to the annoi<g ref="char:EOLhyphen"/>ance and prejudice of the ſame works, or any of them. All and every which ſaid Erections, Buildings, Cottages, Dwellings, Huts, Reeks or Stacks, or other Impediments, are, and are here<g ref="char:EOLhyphen"/>by declared to be Nuſances.</p>
+            <p n="6">6. And it is hereby further Ordered, Ad<g ref="char:EOLhyphen"/>judged and Decreed, that no perſon or perſons ſhall at any time hereafter make, or cauſe to be made, any Waterings, or place for watering of Cattle within ten foot of any the ſaid Rivers, pub<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick Drain, or any Outring or Diviſion, Dyke or Lot, Diviſion-Dyke, within the ſaid Level, to the ſtopping annoiance or prejudice of them, or any of them, or of any part of them, or any of them; the which are, and are alſo here<g ref="char:EOLhyphen"/>by declared to be Nuſances.</p>
+            <p n="7">7. And it is hereby further Ordered, Ad<g ref="char:EOLhyphen"/>judged and Decreed, that no perſon or perſons whatſoever, ſhall at any time hereafter put, or cauſe any Swine to be put, or kept into or upon any of the Banks or Fore-lands of any of the Rivers or Sewers, within or without the ſaid Great Level, made, as aforeſaid, or uſed, as con<g ref="char:EOLhyphen"/>ducing to the preſervation of the ſame.</p>
+            <p n="8">8. And it is hereby further Ordered, Ad<g ref="char:EOLhyphen"/>judged and Decreed, that all Weers, Incroach<g ref="char:EOLhyphen"/>ments and Streightnings of the antient or preſent
+<pb n="11" facs="tcp:110438:6"/>
+               <!-- PDF PAGE 99 -->Breadth, Depth, Water-way or Paſſage of any River, Drain or Water-courſe, within the ſaid Great Level; and all Buildings, Cottages, Dwellings or Huts, upon any Drove-way, Waſh, or Fore-land, and all other Lets, Impe<g ref="char:EOLhyphen"/>diments and Nuſances whatſoever heretofore made in, within or upon any of the Rivers, Waſhes, Drains, Outring-diviſion, Dykes, Let, Diviſion-dykes, Sewers, Waſhes, Banks, Drove-ways, Fore-lands, or other works whatſoever, within the ſaid Great Level, ſhall be removed and redreſſed by the perſon or perſons, by whom or by whoſe appointment the ſame have been ſo erected, ſet up, made or continued; or by the Owners of the ſame for the time being, before the firſt day of <hi>November</hi> which ſhall be in the year of our Lord, One thouſand ſix hundred ſixty and ſeven; or in default thereof, by the Serjeant at Mace of the ſaid Great Level, at the charge of the perſon or perſons that ſo erected, or hath laſt continued the ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
